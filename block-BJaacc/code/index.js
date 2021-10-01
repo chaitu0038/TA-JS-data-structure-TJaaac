@@ -1,10 +1,14 @@
 // 1. Define a variable named `students` and assign a blank object to it.
+let students = [];
 
 // 2. Add a key of the value of variable `studentName` in the object created above with the value of your name.
+students.studentName = {};
 
 // 3. Using `console.log` log the value of `studentName` key from the `students` object
+console.log(students.studentName);
 
 // 4. Add a another key of the value of variable `batch` in the object with the value of 16.
+students = [students.batch]
 
 // 5. Using `console.log` log the value of `batch` key from the `students` object
 
