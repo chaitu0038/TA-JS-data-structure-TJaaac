@@ -8,6 +8,7 @@ let user = obj;
 let arr = ['Hi'];
 let arr2 = arr;
 ```
+//{surname: 'Stark'}
 
 Answer the following with reason after going through the above code:
 
