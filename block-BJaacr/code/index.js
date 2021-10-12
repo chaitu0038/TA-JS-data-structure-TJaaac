@@ -1,4 +1,4 @@
-/*
+sd/*
 Game of Thrones : Houses And People's Name
 Try to first understand how Array in Objects & Objects in Array are arranged in this example.
 Only when you don't get it by yourself, comeback again and read the hint
